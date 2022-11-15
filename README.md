@@ -8,8 +8,12 @@ I am an undergraduate research assistant at <a href="http://nataliakhuri.com/Dat
 My undergraduate research project focuses on <b>evolutionary multi-objective optimization for building fair and accurate machine learning classifiers and clusterers.</b> <br>
 
 <h4 align="Left">Projects</h4>
-Machine Learning Fairness	September 2022 – Present<br>
-Multi-objective Evolutionary Clustering of Single-Cell RNA Sequencing Data	May 2022 - October 2022<br>
+<div id="textbox">
+  <p class="alignleft">Machine Learning Fairness</p>
+  <p class="alignright">September 2022 – Present</p>
+</div>
+
+Multi-objective Evolutionary Clustering of Single-Cell RNA Sequencing Data May 2022 - October 2022<br>
 Unbiased Look at Bias Data	January 2022 - April 2022<br>
 Multi-Target Integration and Annotation of Single-Cell RNA-Sequencing Data	December 2021- January 2022<br>
 An Evolutionary Approach to Data Valuation	September 2021 - December 2021<br>
