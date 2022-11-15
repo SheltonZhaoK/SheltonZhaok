@@ -8,15 +8,17 @@ I am an undergraduate research assistant at <a href="http://nataliakhuri.com/Dat
 My undergraduate research project focuses on <b>evolutionary multi-objective optimization for building fair and accurate machine learning classifiers and clusterers.</b> <br>
 
 <h4 align="Left">Projects</h4>
-<div id="textbox">
-  <p class="alignleft">Machine Learning Fairness</p>
-  <p class="alignright">September 2022 – Present</p>
-</div>
-
+Machine Learning Fairness September 2022 – Present<br>
 Multi-objective Evolutionary Clustering of Single-Cell RNA Sequencing Data May 2022 - October 2022<br>
 Unbiased Look at Bias Data	January 2022 - April 2022<br>
 Multi-Target Integration and Annotation of Single-Cell RNA-Sequencing Data	December 2021- January 2022<br>
 An Evolutionary Approach to Data Valuation	September 2021 - December 2021<br>
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>An Evolutionary Approach to Data Valuation	September 2021 - December 2021</li>
+</ul>
 
 <h3 align="Left">👨‍🏫Publications</h3>
 S. Bhandari, N. P. Whitener, K. Zhao, and N. Khuri.  <a href="https://dl.acm.org/doi/10.1145/3535508.3545511">Multi-target integration and annotation of single-cell RNA-sequencing data</a>. In Proceedings of the 13th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics (BCB ’22), August 2022. ACM, New York, NY, USA, pp. 1–4. <br><br>
