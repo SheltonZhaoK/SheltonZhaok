@@ -18,3 +18,7 @@ An Evolutionary Approach to Data Valuation	September 2021 - December 2021<br>
 S. Bhandari, N. P. Whitener, K. Zhao, and N. Khuri.  <a href="https://dl.acm.org/doi/10.1145/3535508.3545511">Multi-target integration and annotation of single-cell RNA-sequencing data</a>. In Proceedings of the 13th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics (BCB ’22), August 2022. ACM, New York, NY, USA, pp. 1–4. <br><br>
 
 N. Khuri, S. Bhandari, E. Murillo Burford, N. P. Whitener and K. Zhao. <a href="https://dl.acm.org/doi/abs/10.1145/3535508.3545522">An evolutionary approach to data valuation</a>. In Proceedings of the 13th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics (BCB ’22), August 2022. ACM, New York, NY, USA, pp. 1–10. 
+
+<h3 align="Left">Contact</h3>
+☎️: 743 207 8983<br><br>
+📩: zhaok220@wfu.edu | konghaozhao1125@outlook.com | sheltonzhao1125@gmail.com
