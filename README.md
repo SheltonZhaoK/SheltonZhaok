@@ -1,9 +1,20 @@
-<h1 align="center">Hi 👋, I'm Konghao Zhao</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="Left">Hi 👋, Welcome to my Homepage</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<h3 align="Left">🤠Biography</h3>
+I am a undergraduate of class 2024 and double majoring in computer science and applied mathematics at Wake Forest University. <br><br>I am from Beijing, China.<br><br>My long-term objective is to pursue a doctorate in computer science and become a research scientist in the future. <br><br>BTW, I like 🏀 , 🏊‍♀️ , 🏋️‍♀️ , and 🏃.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h3 align="Left">👨‍💻Research</h3>
+I am an undergraduate research assistant at <a href="http://nataliakhuri.com/DataMineLab/index.html#projects">DataMine Research Group</a> led by Dr. Natalia Khuri. <br><br>
+My undergraduate research project focuses on <b>evolutionary multi-objective optimization for building fair and accurate machine learning classifiers and clusterers.</b> <br>
+
+<h4 align="Left">Projects</h4>
+Machine Learning Fairness	September 2022 – Present<br>
+Multi-objective Evolutionary Clustering of Single-Cell RNA Sequencing Data	May 2022 - October 2022<br>
+Unbiased Look at Bias Data	January 2022 - April 2022<br>
+Multi-Target Integration and Annotation of Single-Cell RNA-Sequencing Data	December 2021- January 2022<br>
+An Evolutionary Approach to Data Valuation	September 2021 - December 2021<br>
+
+<h3 align="Left">👨‍🏫Publications</h3>
+S. Bhandari, N. P. Whitener, K. Zhao, and N. Khuri.  <a href="https://dl.acm.org/doi/10.1145/3535508.3545511">Multi-target integration and annotation of single-cell RNA-sequencing data</a>. In Proceedings of the 13th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics (BCB ’22), August 2022. ACM, New York, NY, USA, pp. 1–4. <br><br>
+
+N. Khuri, S. Bhandari, E. Murillo Burford, N. P. Whitener and K. Zhao. <a href="https://dl.acm.org/doi/abs/10.1145/3535508.3545522">An evolutionary approach to data valuation</a>. In Proceedings of the 13th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics (BCB ’22), August 2022. ACM, New York, NY, USA, pp. 1–10. 
