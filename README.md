@@ -15,7 +15,12 @@ My undergraduate research project focuses on <b>evolutionary multi-objective opt
   <li>Multi-Target Integration and Annotation of Single-Cell RNA-Sequencing Data</li>
   <li>An Evolutionary Approach to Data Valuation</li>
 </ul>
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=SheltonZhaoK&hide=html&layout=compact=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/SheltonZhaoK">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheltonZhaoK&layout=compact" />
+</a>
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SheltonZhaoK&hide=javascript,css,scss,html)
 
 <h2 align="Left">👨‍🏫Publications</h2>
 S. Bhandari, N. P. Whitener, <b>K. Zhao</b>, and N. Khuri.  <a href="https://dl.acm.org/doi/10.1145/3535508.3545511">Multi-target integration and annotation of single-cell RNA-sequencing data</a>. In Proceedings of the 13th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics (BCB ’22), August 2022. ACM, New York, NY, USA, pp. 1–4. <br><br>
@@ -25,3 +30,6 @@ N. Khuri, S. Bhandari, E. Murillo Burford, N. P. Whitener and <b>K. Zhao</b>. <a
 <h2 align="Left">☎️Contact</h2>
 Number: 743 207 8983<br>
 Email: zhaok220@wfu.edu | konghaozhao1125@outlook.com | sheltonzhao1125@gmail.com
+<br><br><a href="https://github.com/SheltonZhaoK">
+  <img src="https://komarev.com/ghpvc/?username=SheltonZhaoK&style=flat-square" />
+</a>
