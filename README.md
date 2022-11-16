@@ -1,7 +1,7 @@
 <h1 align="Left">Hi 👋, Welcome to my Homepage</h1>
 
 <h3 align="Left">🤠Biography</h3>
-I am a undergraduate of class 2024 and double majoring in computer science and applied mathematics at Wake Forest University. <br><br>I am from Beijing, China.<br><br><b>My long-term objective is to pursue a doctorate in computer science and become a research scientist in the future.</b> <br><br>BTW, I like 🏀 , 🏊‍♀️ , 🏋️‍♀️ , 🏃, 👨‍🍳‍.
+I am a undergraduate of class 2024, double majoring in computer science and applied mathematics at Wake Forest University. <br><br>I am from Beijing, China.<br><br><b>My long-term objective is to pursue a doctorate in computer science and become a research scientist in the future.</b> <br><br>BTW, I like 🏀 , 🏊‍♀️ , 🏋️‍♀️ , 🏃, 👨‍🍳‍.
 
 <h3 align="Left">👨‍💻Research</h3>
 I am an undergraduate research assistant at <a href="http://nataliakhuri.com/DataMineLab/index.html#projects">DataMine Research Group</a> led by <a href="http://nataliakhuri.com/index.html">Dr. Natalia Khuri</a>. <br><br>
