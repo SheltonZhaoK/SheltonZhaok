@@ -17,7 +17,7 @@ My undergraduate research project focuses on <b>evolutionary multi-objective opt
 </ul>
 
 <a href="https://github.com/SheltonZhaoK">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheltonZhaoK&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheltonZhaoK&layout=compact&hide_border=false" />
 </a> 
 
 <h2 align="Left">👨‍🏫Publications</h2>
