@@ -5,7 +5,7 @@ I am a undergraduate of class 2024, double majoring in computer science and appl
 
 <h2 align="Left">👨‍💻Research</h2>
 I am an undergraduate research assistant at <a href="http://nataliakhuri.com/DataMineLab/index.html#projects">DataMine Research Group</a> led by <a href="http://nataliakhuri.com/index.html">Dr. Natalia Khuri</a>. <br><br>
-My undergraduate research project focuses on <b>evolutionary multi-objective optimization for building fair and accurate machine learning classifiers and clusterers.</b> <br>
+My undergraduate research project focuses on <b>building fair and accurate machine learning classifiers and clusterers using evolutionary multi-objective optimization and high performance computing.</b> <br>
 
 <h4 align="Left">Projects (May 2021 - Present)</h4>
 <ul>
