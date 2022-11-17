@@ -17,10 +17,8 @@ My undergraduate research project focuses on <b>evolutionary multi-objective opt
 </ul>
 
 <a href="https://github.com/SheltonZhaoK">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheltonZhaoK&layout=compact" />
-</a>
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SheltonZhaoK&hide=javascript,css,scss,html)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheltonZhaoK&layout=compact&hide_border=true" />
+</a> 
 
 <h2 align="Left">👨‍🏫Publications</h2>
 S. Bhandari, N. P. Whitener, <b>K. Zhao</b>, and N. Khuri.  <a href="https://dl.acm.org/doi/10.1145/3535508.3545511">Multi-target integration and annotation of single-cell RNA-sequencing data</a>. In Proceedings of the 13th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics (BCB ’22), August 2022. ACM, New York, NY, USA, pp. 1–4. <br><br>
