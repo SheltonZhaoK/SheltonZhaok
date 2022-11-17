@@ -28,7 +28,7 @@ S. Bhandari, N. P. Whitener, <b>K. Zhao</b>, and N. Khuri.  <a href="https://dl.
 N. Khuri, S. Bhandari, E. Murillo Burford, N. P. Whitener and <b>K. Zhao</b>. <a href="https://dl.acm.org/doi/abs/10.1145/3535508.3545522">An evolutionary approach to data valuation</a>. In Proceedings of the 13th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics (BCB ’22), August 2022. ACM, New York, NY, USA, pp. 1–10. 
 
 <h2 align="Left">☎️Contact</h2>
-Number: 7432078983<br>
+Number: +1 743-207-8983<br>
 Email: zhaok220@wfu.edu | konghaozhao1125@outlook.com | sheltonzhao1125@gmail.com
 <br><br><a href="https://github.com/SheltonZhaoK">
   <img src="https://komarev.com/ghpvc/?username=SheltonZhaoK&style=flat-square" />
