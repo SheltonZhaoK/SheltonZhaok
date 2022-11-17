@@ -30,4 +30,4 @@ Number: +1 743-207-8983<br>
 Email: zhaok220@wfu.edu | konghaozhao1125@outlook.com | sheltonzhao1125@gmail.com
 <br><br><a href="https://github.com/SheltonZhaoK">
   <img src="https://komarev.com/ghpvc/?username=SheltonZhaoK&style=flat-square" />
-</a>
+</a> 
