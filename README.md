@@ -17,7 +17,7 @@ My undergraduate research project focuses on <b>building fair and accurate machi
 </ul>
 
 <a href="https://github.com/SheltonZhaoK">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheltonZhaoK&layout=compact&env=PAT-1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheltonZhaoK&layout=compact&env=PAxT-1" />
 </a><br>
 
 <h2 align="Left">👨‍🏫Publications</h2>
