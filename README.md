@@ -20,7 +20,7 @@ My undergraduate research project focuses on <b>building fair and accurate machi
 
 <b>K. Zhao</b>, J. M. Grayson, and N. Khuri. <a href="https://dl.acm.org/doi/10.1145/3535508.3545511](https://doi.org/10.3390/jpm13020183">Multi-Objective Genetic Algorithm for Cluster Analysis of Single-Cell Transcriptomes</a>. Journal of Personalized Medicine, 2023, 13(2), 183.
 
-S. Bhandari, N. P. Whitener, <b>K. Zhao</b>, and N. Khuri.  <a href="https://dl.acm.org/doi/10.1145/3535508.3545511">Multi-target integration and annotation of single-cell RNA-sequencing data</a>. In Proceedings of the 13th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics (BCB ’22), August 2022. ACM, New York, NY, USA, pp. 1–4. <br><br>
+S. Bhandari, N. P. Whitener, <b>K. Zhao</b>, and N. Khuri.  <a href="https://dl.acm.org/doi/10.1145/3535508.3545511">Multi-target integration and annotation of single-cell RNA-sequencing data</a>. In Proceedings of the 13th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics (BCB ’22), August 2022. ACM, New York, NY, USA, pp. 1–4.
 
 N. Khuri, S. Bhandari, E. Murillo Burford, N. P. Whitener and <b>K. Zhao</b>. <a href="https://dl.acm.org/doi/abs/10.1145/3535508.3545522">An evolutionary approach to data valuation</a>. In Proceedings of the 13th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics (BCB ’22), August 2022. ACM, New York, NY, USA, pp. 1–10. 
 
