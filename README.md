@@ -9,9 +9,10 @@ My undergraduate research project focuses on <b>building fair and accurate machi
 
 <h4 align="Left">Projects (May 2021 - Present)</h4>
 <ul>
-  <li>Machine Learning Fairness (most recent)</li>
-  <li>Multi-objective Evolutionary Clustering of Single-Cell RNA Sequencing Data</li>
-  <li>Unbiased Look at Bias Data</li>
+  <li>Detection of Algorithmic and Data Biases in Integrated Single-Cell RNA-Sequencing Datasets (most recent)</li>
+  <li>An Empirical Framework for the Evaluation of Algorithmic Leave-One-Out Unfairness of Supervised Cell-Type Predictors</li>
+  <li>scrnabench: A Package for Metamorphic Benchmarking of scRNA-seq Data Analysis Methods</li>
+  <li>Multi-Objective Genetic Algorithm for Cluster Analysis of Single-Cell Transcriptomes</li>
   <li>Multi-Target Integration and Annotation of Single-Cell RNA-Sequencing Data</li>
   <li>An Evolutionary Approach to Data Valuation</li>
 </ul>
